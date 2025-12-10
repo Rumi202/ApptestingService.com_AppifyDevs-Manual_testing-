@@ -1,6 +1,6 @@
 
 
-#  EchoGPT.live AI Chat Platform - QA Testing Summary
+#  ApptestingService  - QA Testing Summary
 
 ## Project Overview
 
