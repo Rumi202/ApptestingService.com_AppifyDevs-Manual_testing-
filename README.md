@@ -45,13 +45,4 @@ The high proportion of Critical/High defects found in scripted testing indicates
 2.  **Detailed Reporting:** Refer to the linked files below for full details on each defect, including steps to reproduce.
 3.  **Retest:** Schedule a re-test cycle immediately after fixes are deployed.
 
-## 📁 Repository Structure
-
-This repository is organized to provide clear access to all test artifacts:
-
-```
-.
-├── defects/                       # Detailed reports for each of the 3 defects
-├── test_plans/                    # Original test case documentation (27 scripted cases)
-├── summary_reports/               # Historical summary documents
 
