@@ -1,8 +1,8 @@
 
 
-# 🔎 💬 EchoGPT.live AI Chat Platform - QA Testing Summary
+#  EchoGPT.live AI Chat Platform - QA Testing Summary
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository contains the Quality Assurance (QA) documentation and summary reports detailing the recent testing cycle for the **EchoGPT.live AI Chat Platform**.
 
