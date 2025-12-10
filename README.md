@@ -10,7 +10,7 @@ The testing scope was designed to verify the stability and functionality of the 
 
 This documentation serves as the single source of truth for the health and stability of the platform following the last development sprint.
 
-## 📋 Testing Scope and Metrics
+## Testing Scope and Metrics
 
 The testing effort covered critical areas of the EchoGPT.live platform:
 
@@ -29,7 +29,7 @@ The testing cycle involved both structured, scripted testing and time-boxed expl
 | **Exploratory Testing** | 45 minutes |
 |
 
-## ⚠️ Defects and Key Findings
+##  Defects and Key Findings
 
 A total of **6 defects** were identified across both scripted and exploratory testing.
 
